@@ -1,4 +1,4 @@
-# So Long Project
+# So Long
 
 Welcome to the **So Long Project**! This project is part of the 42 School curriculum and involves creating a 2D game using the **MiniLibX** library, a simple graphics library provided by 42. The goal of this project is to develop a small game where the player navigates a map, collects items, and reaches an exit while avoiding obstacles.
 
